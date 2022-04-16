@@ -1,5 +1,5 @@
 # P22
-A lightweight Open Source Script Writing Software
+A lightweight Open Source Script Script Writing Software
 
 ## Tech Stack
 React (TypeScript)
